@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+The purpose of this project is to help Louise by completing an analysis on several crowdfunding projects. In a short amount of time, Louise’s play Fever almost achieved its fundraising goal. Through the analysis, we will help Louise to understand how different campaigns performed in relation to her launch dates and funding goals. 
 
 ## Analysis and Challenges
 
