@@ -8,6 +8,7 @@ The purpose of this project is to help Louise by completing an analysis on sever
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Theatre_Outcomes_vs_Launch.png](vdrozd90/Kickstarter_analysis/Resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
